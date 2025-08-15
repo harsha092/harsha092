@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,tensorflow,linux,github,git,java,html,css,javascript,mysql,flask" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,tensorflow,linux,java,javascript,mysql" />
 </p>
 
 ---
