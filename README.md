@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
+<h1 align="center">Hy 👋, I'm Harsh</h1>
 <h3 align="center">Incoming SDE (Digital) @ TCS | SDE @ Capgemini</h3>
 
 ---
