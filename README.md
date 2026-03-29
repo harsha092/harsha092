@@ -1,5 +1,5 @@
 <h1 align="center">Hy 👋, I'm Harsh</h1>
-<h3 align="center">Incoming SE (Digital) @ TCS | SDE @ Capgemini</h3>
+<h3 align="center">Associate(SE//Digital) @ TCS </h3>
 
 ---
 
