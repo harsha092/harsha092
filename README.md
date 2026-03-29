@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 💻 **Specialties:** Cybersecurity | Machine Learning | Algorithm Optimization | C++
-- 📍 Based in **Delhi-NCR, India**
+- 📍 Based in **Delhi-NCR // Kolkata, INDIA**
 - 🎯 Passionate about **AI-driven security applications** & **efficient solutions**
 - 🏢 **Ex-Intern:** [Bobble AI](https://bobble.ai/)
 
